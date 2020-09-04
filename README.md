@@ -21,10 +21,12 @@ The following Linux Operations Systems are supported by this script:
 - OpenSUSE Leap 42
 - SUSE Linux Enterprise Server 12
 
-I've also created tutorials for installing WSL "manually". You can't find these and more tutorials, only in german, on my website: https://admin-anleitungen.de/
-
 # How it works
 
 1. Download both files and move them to your local desktop
 2. Run the wsl-easy-one-click-run-as-admin.cmd as administrator
 3. The PowerShell Script will now be executed within the cmd window. Choose your needed operating system, while entering the specific number.
+
+# Additional Informations
+When you wan't to install WSL manually or via the Microsoft Store, just follow this link to my website (german only!):
+https://admin-anleitungen.de/index.php/2020/09/04/installation-des-windows-subystem-fuer-linux-wsl/
