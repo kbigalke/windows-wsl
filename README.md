@@ -1,4 +1,4 @@
-# Windows Subystem for Linux
+# Windows Subsystem for Linux
 
 This is a simple PowerShell Script for installing the Windows Subsystem for Linux without using the Microsoft Store.
 
