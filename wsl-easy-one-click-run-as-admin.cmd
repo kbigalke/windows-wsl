@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  C:\Users\%USERNAME%\Desktop\wsl-easy-one-click-installer.ps1
